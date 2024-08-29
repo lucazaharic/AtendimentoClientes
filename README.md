@@ -1,7 +1,8 @@
 # AtendimentoClientes
 
  
-Atividade realizada pelos alunos da turma 3SIR  Luca Moraes Zaharic RM 95794 </br> Rafael Fiel Cruz Miranda RM 94654  
+Atividade realizada pelos alunos da turma 3SIR  </br> 
+Luca Moraes Zaharic RM 95794 </br> Rafael Fiel Cruz Miranda RM 94654  
 
 
 Arquitetura Geral:  
